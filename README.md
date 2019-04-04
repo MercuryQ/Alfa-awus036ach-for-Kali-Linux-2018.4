@@ -16,7 +16,7 @@ Install Alfa awus036ach using Kali Linux 2018.4 on Virtual Box
 ##### Link: https://www.kali.org/news/kali-linux-20171-release/
 ##### In the Kali terminal enter the following commands:
 ##### 1.	apt-get update
-##### 2.	apt install realtek-rt188xxau-dkms
+##### 2.	apt install realtek-rtl88xxau-dkms
 ### Now power off your VM and return to Virtual Box
 ### Connect your Alfa awus036ach adapter
 ### Within Virtual Box go to the settings of your Kali VM, and select the USB tab
